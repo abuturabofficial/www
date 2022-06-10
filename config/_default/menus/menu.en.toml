@@ -16,11 +16,11 @@
 [[main]]
   parent = "Links"
   name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  url = "https://www.linkedin.com/in/smdotdev"
 [[main]]
   parent = "Links"
   name = "Twitter"
-  url = "https://twitter.com/"
+  url = "https://twitter.com/smdotdev"
 
 [[main]]
   name = "About"
@@ -33,25 +33,25 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/smdotdev"
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/#"
+  url = "https://twitter.com/smdotdev"
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/smdotdev"
 [[social]]
   name = "rss"
   weight = 4
   url = "index.xml"
 
 # other supported social links
-# name = "youtube"
-# url = "https://www.youtube.com/#"
-# name = "facebook"
-# url = "https://facebook.com/#"
+ name = "youtube"
+ url = "https://www.youtube.com/channel/UCkUsHyW-NQPQxakh-Uic2XQ"
+ name = "facebook"
+ url = "https://web.facebook.com/smdotdevreal"
 # name = "instagram"
 # url = "https://instagram.com/#"
 # name = "stackoverflow"
