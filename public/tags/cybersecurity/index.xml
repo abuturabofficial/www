@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sajid Mahmood</title>
-    <link>https://sajidmahmood.tech/</link>
-    <description>Recent content on Sajid Mahmood</description>
+    <title>Cybersecurity on Sajid Mahmood</title>
+    <link>https://sajidmahmood.tech/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Sajid Mahmood</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2022, Sajid Mahmood; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sajidmahmood.tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sajidmahmood.tech/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Importance of Good Password Hygiene</title>
       <link>https://sajidmahmood.tech/post/01-importance_of_good_password_hygiene/</link>
