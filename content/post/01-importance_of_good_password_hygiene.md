@@ -54,9 +54,9 @@ Before moving towards the topic of making our passwords strong, first let’s di
 
 A 12 character password consisting only of digits can be hacked in less than 25 seconds.
 
-<p align="center">
+<center><p style="max-width:800px; max-height:600px">
   <img src="/images/25sec.png" /><a href="https://www.security.org/how-secure-is-my-password">Security.org</a>
-</p>
+</p></center>
 
 <a id="org62249d7"></a>
 
@@ -116,9 +116,9 @@ A passphrase would be like: **Monkey-Laptop-Car-Driving**
 
 It would take a computer approximately 3 octillion years to crack this memorable passphrase.
 
-<p align="center">
+<center><p style="max-width:800px; max-height:600px">
   <img src="/images/years_sec.png" /><a href="https://www.security.org/how-secure-is-my-password">Security.org</a>
-</p>
+</p></center>
 
 <a id="org49c6e51"></a>
 
@@ -145,16 +145,16 @@ Relying on human skills to generate good passwords or passphrases with above-men
 
 ### For password generation, use an online tool like this:
 
-![](/images/passphrase.png)
-<https://www.useapassphrase.com/>
-
+<center><p style="max-width:800px; max-height:600px">
+  <img src="/images/passphrase.png" /><a href="https://uaseapassphrase.com">Passphrase Generator</a>
+</p></center>
 <a id="org259bb65"></a>
 
 ### For Passphrases, use a tool like this:
 
-![](/images/password.png)
-<https://passwordsgenerator.net/>
-
+<center><p style="max-width:800px; max-height:600px">
+  <img src="/images/password.png" /><a href="https://passwordgenerator.net">Password Generator</a>
+</p></center>
 <a id="orgb7c18ba"></a>
 
 ## Closing Thoughts
