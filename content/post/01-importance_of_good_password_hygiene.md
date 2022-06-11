@@ -82,7 +82,6 @@ There are some standard rules which make sure that our password is strong enough
 
 > Tip: Don’t use <, > as they can cause problem in the web browsers.
 
-
 <a id="orgc11f080"></a>
 
 ## Passphrase
