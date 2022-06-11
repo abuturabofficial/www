@@ -146,14 +146,14 @@ Relying on human skills to generate good passwords or passphrases with above-men
 ### For password generation, use an online tool like this:
 
 <center><p style="max-width:800px; max-height:600px">
-  <img src="/images/passphrase.png" /><a href="https://uaseapassphrase.com">Passphrase Generator</a>
+  <img src="/images/passphrase.png" /><a href="https://useapassphrase.com">Passphrase Generator</a>
 </p></center>
 <a id="org259bb65"></a>
 
 ### For Passphrases, use a tool like this:
 
 <center><p style="max-width:800px; max-height:600px">
-  <img src="/images/password.png" /><a href="https://passwordgenerator.net">Password Generator</a>
+  <img src="/images/password.png" /><a href="https://passwordsgenerator.net">Password Generator</a>
 </p></center>
 <a id="orgb7c18ba"></a>
 
