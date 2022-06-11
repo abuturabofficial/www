@@ -11,7 +11,6 @@ tags = [
 
 # Table of Contents
 
-
 1.  [Importance of Good Password Hygiene](#org2df8938)
 2.  [Don’t Use Weak Passwords](#orga6c197a)
 3.  [Examples of weak passwords](#org987165b)
@@ -27,21 +26,17 @@ tags = [
     2.  [For Passphrases, use a tool like this:](#org259bb65)
 12. [Closing Thoughts](#orgb7c18ba)
 
-
-
 <a id="orgd0441fe"></a>
 
 ## Importance of Good Password Hygiene
 
 We live in the internet era, where we share everything about our lives on social media, we have bank accounts and digital wallets. We do online shopping, send and receive emails, do chat and run business using the internet. In short, our whole life lives on the cloud, if we won’t be careful enough, this information can get leaked or hacked by the cyber criminals. They can use this information to steal our money, to do identity fraud, or leak the sensitive information about our private lives and businesses which can affect us emotionally and financially.
 
-
 <a id="orga6c197a"></a>
 
 ## Don’t Use Weak Passwords
 
 Like we show diligence to protect our physical belongings, protecting our online identity becomes more important in this day and age, as we’re moving towards the hybrid world where we do most of the things online. Saving our online identity is as much crucial as saving ourselves from a wild animal. So the first step in the right direction is, use a strong password, no matter how annoying it is. Due to laziness and lack of awareness, we tend to use weak passwords and, worst of the all, use the same password for everything. This negligence can lead to some unfortunate results.
-
 
 <a id="org987165b"></a>
 
@@ -67,13 +62,11 @@ To know, how much time a computer will take to crack your password, visit:
 
 <https://www.security.org/how-secure-is-my-password/>
 
-
 <a id="orgfd0abca"></a>
 
 ## List of most common passwords:
 
 <https://nordpass.com/most-common-passwords-list/>
-
 
 <a id="orgccb0374"></a>
 
@@ -96,7 +89,6 @@ There are some standard rules which make sure that our password is strong enough
 
 A passphrase is a sentence like string used for authentication and that is longer than a traditional password. Using a memorable long passphrase is better than using a short password.
 
-
 <a id="org3423aff"></a>
 
 ## Passphrase Best Practice:
@@ -107,7 +99,6 @@ Following are some standard practices to keep in mind while using passphrases:
 -   Use spellings that only make sense to you
 -   Use spaces and punctuation between the words
 -   Use capital or capitalize certain letters of your passphrase
-
 
 <a id="orge7d476c"></a>
 
@@ -141,13 +132,11 @@ For keeping your accounts free from hackers and information leakage, apply the t
     
     > How to safely store your passwords and passphrases is another topic which will be discussed in the coming blog/video.
 
-
 <a id="org3d73ecc"></a>
 
 ## Use a Password and Passphrase Generators
 
 Relying on human skills to generate good passwords or passphrases with above-mentioned qualities is not recommended, as we tend to undermine the risks and show laziness for protecting our online identities. Thus, you should use password and passphrase generators which make sure with the available switches that they have all the features of a good hygiene.
-
 
 <a id="org939be1c"></a>
 
@@ -155,7 +144,6 @@ Relying on human skills to generate good passwords or passphrases with above-men
 
 ![](/images/passphrase.png)
 <https://www.useapassphrase.com/>
-
 
 <a id="org259bb65"></a>
 
@@ -169,4 +157,3 @@ Relying on human skills to generate good passwords or passphrases with above-men
 ## Closing Thoughts
 
 It’s always the humans who prove to be a weak link in the online safety and security. By staying conscious and alert, we can reduce that risk.
-
