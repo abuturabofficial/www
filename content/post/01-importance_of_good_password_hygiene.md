@@ -28,6 +28,10 @@ tags = [
 
 <a id="orgd0441fe"></a>
 
+Checkout the video as well.
+
+{{< youtube rdJx2wecKfI >}}
+
 ## Importance of Good Password Hygiene
 
 We live in the internet era, where we share everything about our lives on social media, we have bank accounts and digital wallets. We do online shopping, send and receive emails, do chat and run business using the internet. In short, our whole life lives on the cloud, if we won’t be careful enough, this information can get leaked or hacked by the cyber criminals. They can use this information to steal our money, to do identity fraud, or leak the sensitive information about our private lives and businesses which can affect us emotionally and financially.
