@@ -7,7 +7,7 @@ tags = [
     "password manager",
     "Cybersecurity",
 ]
-draft = true
+draft = false
 +++
 
 # Table of Contents
@@ -21,7 +21,7 @@ draft = true
     3.  [ Dashlane:](#org0c07622)
 5.  [ FOSS Password Managers](#orgd0c1daf)
     1.  [ KeePass:](#orga70bc55)
-    2.  [ Padlock:](#org1e010a7)
+    2.  [ Padloc:](#org1e010a7)
     3.  [ Bitwarden:](#org7b53484)
     4.  [ Some honorable mentions:](#org0cf9e0c)
 6.  [ Why to use FOSS Password Managers?](#org490b037)
@@ -82,7 +82,7 @@ Following are some proprietary Password Managers, we won&rsquo;t discuss them in
 
 ## 1) LastPass:
 
-LastPass offers freemium services, with limited access to the features for their free tier users, but offer great deal of services to the premium members. It is bit costly compared to what we have in free as well in the form of Padlock or Bitwarden. A [critical vulnerability](https://www.zdnet.com/article/lastpass-bug-leaks-credentials-from-previous-site/) was reported in 2019. According to [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/?sh=7b25ed387ebe), Drug Enforcement Administration(DEA) demand to access a criminal password record was rejected by LastPass due to zero knowledge encryption in place for customers.
+LastPass offers freemium services, with limited access to the features for their free tier users, but offer great deal of services to the premium members. It is bit costly compared to what we have in free as well in the form of Padloc or Bitwarden. A [critical vulnerability](https://www.zdnet.com/article/lastpass-bug-leaks-credentials-from-previous-site/) was reported in 2019. According to [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/?sh=7b25ed387ebe), Drug Enforcement Administration(DEA) demand to access a criminal password record was rejected by LastPass due to zero knowledge encryption in place for customers.
 
 <center><div style="max-width:119px; max-height:119px">
   <img src="/images/lastpass.png" /><a href="  https://www.lastpass.com/">LastPass.com</a>
