@@ -34,6 +34,10 @@ draft = false
 
 <a id="org0282a61"></a>
 
+Checkout the video as well:
+
+{{< youtube MH5NQLb11mY >}}
+
 # 1) What are Password Managers?
 
 A computer program which acts as a wallet for storing, managing passwords as well as offer the feature to generate strong and complicated passwords for applications and services.
