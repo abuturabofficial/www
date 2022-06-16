@@ -3,6 +3,7 @@ author = "Sajid Mahmood"
 title = "Password Managers and their Role in Online Safety and Security"
 date = "2022-06-11"
 description = "Your guide to online safety, and password hygiene"
+thumbnail = "images/passwordmanagert.png"
 tags = [
     "password manager",
     "Cybersecurity",

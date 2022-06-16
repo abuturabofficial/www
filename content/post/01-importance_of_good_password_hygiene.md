@@ -1,6 +1,7 @@
 +++
 author = "Sajid Mahmood"
 title = "Importance of Good Password Hygiene"
+thumbnail = "images/25sect.png"
 date = "2022-06-07"
 description = "Your guide to online safety, and password hygiene"
 tags = [
