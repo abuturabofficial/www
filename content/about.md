@@ -10,6 +10,6 @@ Sajid Mahmood is a technology geek, who loves to learn and teach about exciting 
 
 For Business queries, reach us out at:
 
-[Email Us](mailto:sajidmaibal+business@proton.me) 
+[Email Us](mailto:smonsec+business@proton.me) 
 
-[LinkedIn](https://www.linkedin.com/in/smdotdev)
+[LinkedIn](https://www.linkedin.com/in/smonsec)
