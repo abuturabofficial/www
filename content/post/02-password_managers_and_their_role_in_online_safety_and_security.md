@@ -64,8 +64,8 @@ Here are some features common to most of the Password Managers either they are F
 -   You don&rsquo;t have to remember all the passwords.
 -   Most of them can auto generate highly secure passwords, depending upon your need, you can tweak the password generation with switches to make them highly secure and unguessable.
 -   You can add your family members to your account, so they can inherit your account in the case of any emergency.
--   They save time by auto-filling the password field with your email or username for that site or service.
--   Almost every Password Manager offer cross platform solutions, so you can use them whenever you want, like, on Mobile Phone(Android, IOs), OSs(Linux, Windows or Mac) or browsers(Brave, Firefox, Chrome, Edge or Safari)
+-   They save time by autofilling the password field with your email or username for that site or service.
+-   Almost every Password Manager offer cross-platform solutions, so you can use them whenever you want, like, on Mobile Phone(Android, iOS), OSes(Linux, Windows or Mac) or browsers(Brave, Firefox, Chrome, Edge or Safari)
 -   They protect your identity by giving you choice of password segmentation across different applications or services in case of data breaches.
 -   They have a master password, which acts as a master key to all your information stored in the Password Managers.
 -   Apart from that, to provide extra security to your wallet, they offer 2FA or MFA.
@@ -87,7 +87,7 @@ Following are some proprietary Password Managers, we won&rsquo;t discuss them in
 
 ## 1) LastPass:
 
-LastPass offers freemium services, with limited access to the features for their free tier users, but offer great deal of services to the premium members. It is bit costly compared to what we have in free as well in the form of Padloc or Bitwarden. A [critical vulnerability](https://www.zdnet.com/article/lastpass-bug-leaks-credentials-from-previous-site/) was reported in 2019. According to [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/?sh=7b25ed387ebe), Drug Enforcement Administration(DEA) demand to access a criminal password record was rejected by LastPass due to zero knowledge encryption in place for customers.
+LastPass offers freemium services, with limited access to the features for their free tier users, but offer great deal of services to the premium members. It is a bit costly compared to what we have in free as well in the form of Padloc or Bitwarden. A [critical vulnerability](https://www.zdnet.com/article/lastpass-bug-leaks-credentials-from-previous-site/) was reported in 2019. According to [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/?sh=7b25ed387ebe), Drug Enforcement Administration(DEA) demand to access a criminal password record was rejected by LastPass due to zero knowledge encryption in place for customers.
 
 <center><div style="max-width:119px; max-height:119px">
   <img src="/images/lastpass.png" /><a href="  https://www.lastpass.com/">LastPass.com</a>
@@ -97,7 +97,7 @@ LastPass offers freemium services, with limited access to the features for their
 
 ## 2) 1Password:
 
-1Password do use some of the FOSS software for their services, but their app itself is proprietary. They have only premium version with limited trial period. Their premium version is also a bit costly. A plus point for them is their positive attitude and support about Open Source.
+1Password do use some FOSS software for their services, but their app itself is proprietary. They have only premium version with limited trial period. Their premium version is also a bit costly. A plus point for them is their positive attitude and support about Open Source.
 
 <center><div style="max-width:119px; max-height:119px">
   <img src="/images/1password.jpeg" /><a href="  https://1password.com/">1Password.com</a>
@@ -107,7 +107,7 @@ LastPass offers freemium services, with limited access to the features for their
 
 ## 3) Dashlane:
 
-Dashlane offers limited free version with app support for all major OSs. The negative for me is lack of Linux client. The premium version is also bit costly than other proprietary premium offerings discussed above. It also doesn&rsquo;t offer password sync for free tier users.
+Dashlane offers limited free version with app support for all major OSes. The negative for me is lack of Linux client. The premium version is also a bit costlier than other proprietary premium offerings discussed above. It also doesn't offer password sync for free tier users.
 
 <center><div style="max-width:119px; max-height:119px">
   <img src="/images/dashlane.png" /><a href="  https://www.dashlane.com/">Dashlane.com</a>
@@ -117,7 +117,7 @@ Dashlane offers limited free version with app support for all major OSs. The neg
 
 # 5) FOSS Password Managers
 
-Following  are some Open Source offerings:
+Following are some Open Source offerings:
 
 
 <a id="orga70bc55"></a>
@@ -169,7 +169,7 @@ Pros of using Free and Open Source Password Managers.
 -   They have audit-able source code, which makes them more secure than their proprietary counterparts as more eyes on the code means less bugs, theoretically.
 -   Security flaws and Zero-Days can be found quickly and patched within no time.
 -   No hidden trackers or back-doors.
--   Free in term of freedom as well as their premium features are also dirt-cheap compared to proprietary Password Managers.
+-   Free in terms of freedom as well as their premium features are also dirt-cheap compared to proprietary Password Managers.
     
     > Disclaimer: These pros only apply to those FOSS programs which are well-reputed and used by large number of people. But if you use some unknown software whose users are only you and the developer, realistically chances are, you&rsquo;re at more risk than using a proprietary well-known counterpart.
 
@@ -185,7 +185,7 @@ It&rsquo;s arguably the best Password Manager in every category with zero knowle
 -   Store Unlimited Passwords, credit/debit cards, notes etc.
 -   Free sharing for 2 Users
 -   Encrypted Text sharing to safely share your logins with loved ones.
--   Basic two step login.
+-   Basic two-step login.
 -   Encrypted offline backups with cloud offerings too.
 -   Ability to self-host your passwords.
 -   Username and password generator.
@@ -198,10 +198,10 @@ It&rsquo;s arguably the best Password Manager in every category with zero knowle
 
 # 8) Bitwarden: Premium Features
 
-Bitwarden offers a premium version with some added features, in dirt cheap price with less than 1$ per month.
+Bitwarden offers a premium version with some added features, in dirt cheap price with less than $1 per month.
 
--   Advanced 2FA, Yubikey integration, FIDO2, Duo for password authentication to your account.
--   Encrypted file attachments upto 1GB
+-   Advanced 2FA, YubiKey integration, FIDO2, Duo for password authentication to your account.
+-   Encrypted file attachments up to 1 GB
 -   Vault Health Reports
 -   Priority Customer Support
 -   Bitwarden Authenticator for TOTP support.
@@ -222,5 +222,5 @@ To see Bitwarden in action, checkout the linked video.
 
 # 9) Conclusion
 
-Password Managers can relieve your stress of remembering hundreds of passwords by heart, but at the same time, you should be careful in selecting your Password Manager of choice, by looking at their track record and also being conscious about their encryption methodology,  specially if they are offering cloud-based solutions.
+Password Managers can relieve your stress of remembering hundreds of passwords by heart, but at the same time, you should be careful in selecting your Password Manager of choice, by looking at their track record and also being conscious about their encryption methodology, specially if they are offering cloud-based solutions.
 

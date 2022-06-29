@@ -50,7 +50,7 @@ Like we show diligence to protect our physical belongings, protecting our online
 Before moving towards the topic of making our passwords strong, first let’s discuss some examples of weak passwords:
 
 -   Using your birthday, anniversary, friend’s or pet’s name, as your password
--   Using only numbers, like your phone number, your birthday date, month, and year etc
+-   Using only numbers, like your phone number, your birthday date, month, and year etc.
 -   Using Generic Passwords like password, password123, qwerty, abc123, princess, sunshine etc
 
 A 12 character password consisting only of digits can be hacked in less than 25 seconds.
@@ -82,7 +82,7 @@ There are some standard rules which make sure that our password is strong enough
 -   At least 12 characters
 -   Mixture of both upper and lowercase letters
 -   Mixture of letters and numbers
--   Inclusion of at least one special character, e.g., ! @ # ? ]
+-   Inclusion of at least one special character, e.g., ! @ # ?]
 -   Use two factor or multifactor authentication
 
 > Tip: Don’t use <, > as they can cause problem in the web browsers.
