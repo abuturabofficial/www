@@ -20,7 +20,7 @@
 [[main]]
   parent = "Links"
   name = "Twitter"
-  url = "https://twitter.com/smdonsec"
+  url = "https://twitter.com/Echo4058"
 
 [[main]]
   name = "About"
@@ -37,7 +37,7 @@
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/smonsec"
+  url = "https://twitter.com/Echo4058"
 [[social]]
   name = "linkedin"
   weight = 3
@@ -56,7 +56,7 @@
 [[social]]
  name = "facebook"
  weight = 2
- url = "https://web.facebook.com/smdotdevreal"
+ url = "https://web.facebook.com/Glacial0924"
 # name = "instagram"
 # url = "https://instagram.com/#"
 # name = "stackoverflow"
