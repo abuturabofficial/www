@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sajidmahmood.tech/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sajidmahmood.tech/tags/cybersecurity/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sajidmahmood.tech/tags/password-manager/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sajidmahmood.tech/post/02-password_managers_and_their_role_in_online_safety_and_security/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sajidmahmood.tech/post/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sajidmahmood.tech/tags/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sajidmahmood.tech/archives/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sajidmahmood.tech/about/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sajidmahmood.tech/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sajidmahmood.tech/tags/cybersecurity/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sajidmahmood.tech/post/01-importance_of_good_password_hygiene/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sajidmahmood.tech/tags/passwords/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sajidmahmood.tech/post/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sajidmahmood.tech/tags/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sajidmahmood.tech/categories/</loc>

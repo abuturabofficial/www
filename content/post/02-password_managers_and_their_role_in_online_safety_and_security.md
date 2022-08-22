@@ -28,16 +28,12 @@ draft = false
 6.  [ Why to use FOSS Password Managers?](#org490b037)
 7.  [ Bitwarden: A Short Intro](#orgc79e182)
 8.  [ Bitwarden: Premium Features](#orgace83e5)
-9.  [ Bitwarden in Action](#orgc475718)
-10. [ Conclusion](#orgcaaf61b)
+9. [ Conclusion](#orgcaaf61b)
 
 
 
 <a id="org0282a61"></a>
 
-Checkout the video as well:
-
-{{< youtube MH5NQLb11mY >}}
 
 # 1) What are Password Managers?
 
@@ -212,13 +208,6 @@ Website: <https://bitwarden.com/>
 
 
 <a id="orgc475718"></a>
-
-# 9) Bitwarden in Action
-
-To see Bitwarden in action, checkout the linked video.
-
-
-<a id="orgcaaf61b"></a>
 
 # 9) Conclusion
 
